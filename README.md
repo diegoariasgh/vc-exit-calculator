@@ -26,7 +26,7 @@ The calculator allows users to input:
 - **Revenue Target for Exit ($)** = Exit Valuation Needed / Industry Multiple
 
 ## How to Use
-1. **Open the calculator** 
+1. **Open the calculator** <a href="https://diegoariasgh.github.io/vc-exit-calculator/calculator.html">here</a>
 2. **Enter investment details** (check size, valuation, fund size, and industry multiple).
 3. **Review the calculated outputs**:
    - Final ownership at exit
