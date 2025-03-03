@@ -1,7 +1,7 @@
 # VC Exit Calculator
 
 ## Overview
-The **VC Exit Calculator** is an interactive tool designed to help NYU students in the BTE Capstone class understand how venture capital return multiples work. By manipulating different variables, students can see the impact of valuation, investment size, ownership dilution, and industry revenue multiples on exit outcomes. 
+The <b><a href="https://diegoariasgh.github.io/vc-exit-calculator/calculator.html">VC Exit Calculator</a></b> is an interactive tool designed to help NYU students in the BTE Capstone class understand how venture capital return multiples work. By manipulating different variables, students can see the impact of valuation, investment size, ownership dilution, and industry revenue multiples on exit outcomes. 
 
 ## Purpose
 This project aims to provide a hands-on way for students to grasp key concepts in venture capital, including:
